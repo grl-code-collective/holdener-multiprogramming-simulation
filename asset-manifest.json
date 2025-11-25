@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/holdener-multiprogramming-simulation/static/css/main.f855e6bc.css",
+    "main.js": "/holdener-multiprogramming-simulation/static/js/main.3a307c23.js",
+    "static/js/453.ed6a65a7.chunk.js": "/holdener-multiprogramming-simulation/static/js/453.ed6a65a7.chunk.js",
+    "index.html": "/holdener-multiprogramming-simulation/index.html",
+    "main.f855e6bc.css.map": "/holdener-multiprogramming-simulation/static/css/main.f855e6bc.css.map",
+    "main.3a307c23.js.map": "/holdener-multiprogramming-simulation/static/js/main.3a307c23.js.map",
+    "453.ed6a65a7.chunk.js.map": "/holdener-multiprogramming-simulation/static/js/453.ed6a65a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3a307c23.js"
+  ]
+}
